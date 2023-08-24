@@ -24,7 +24,10 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  ![snake gif](https://github.com/AbdulKLSarabia/AbdulKLSarabia/blob/output/github-contribution-grid-snake.svg)
+   <p>
+      ![snake gif](https://github.com/AbdulKLSarabia/AbdulKLSarabia/blob/output/github-contribution-grid-snake.svg)
+   </p>
+  
   
   <br/><br/><br/>
 </div>

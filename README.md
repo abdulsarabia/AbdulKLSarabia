@@ -1,8 +1,15 @@
-### 
-<h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=00F7D3&width=435&lines=Ol%C3%A1+Sou+o+Abdul+Karim+Leite+Sarabia" alt="Typing SVG" 
-</h1>
+###
 
+<h1 align="center"> 
+   <a  href="https://imgur.com/CxOxgii"><img src="https://i.imgur.com/CxOxgii.gif" title="source: imgur.com" width="400" height="400"/></a> <br>
+    <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=00F7D3&width=435&lines=Ol%C3%A1+Sou+o+Abdul+Karim+Leite+Sarabia" alt="Typing SVG"        
+</h1>
+<h2>
+    
+</h2>
+
+
+    
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 

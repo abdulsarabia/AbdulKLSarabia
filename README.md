@@ -1,4 +1,8 @@
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=00F7D3&width=435&lines=Ol%C3%A1+Sou+o+Abdul+Karim+Leite+Sarabia" alt="Typing SVG" /></a>
+### 
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=00F7D3&width=435&lines=Ol%C3%A1+Sou+o+Abdul+Karim+Leite+Sarabia" alt="Typing SVG" 
+</h1>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
@@ -11,7 +15,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbdulKLSarabia/AbdulKLSarabia/output/github-contribution-grid-snake.svg" />
   

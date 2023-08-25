@@ -1,4 +1,4 @@
-### Oi sou o Abdul Sarabia, entusiasta de tecnologia!
+### Hi I'm Abdul Sarabia, a tech enthusiast!
 
 
 
@@ -7,14 +7,7 @@
 
 
 <div >
-    <img src="https://skillicons.dev/icons?i=java,javascript,github," /><br>
-    <img src="https://skillicons.dev/icons?i=idea,mysql,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,html,css,github,idea,vscode,git" />
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbdulKLSarabia/AbdulKLSarabia/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+

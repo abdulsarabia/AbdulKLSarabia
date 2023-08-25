@@ -12,8 +12,10 @@ jobs:
     steps:
       # Snake Animation
       - uses: Platane/snk@master
+      
         id: snake-gif
         with:
+          node-version: 16
           github_user_name: rafaballerini
           svg_out_path: dist/github-contribution-grid-snake.svg
 

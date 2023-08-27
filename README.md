@@ -7,7 +7,7 @@
 
 
 <div >
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,github,idea,vscode,eclipse,git,discord" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,github,idea,vscode,eclipse,git,discord,linux" />
 </div>
 
 

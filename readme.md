@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Karim Leite Sarabia
 =================================================================================================================================================
 
-Back Developer
+Developer
 --------------
 
 Professional and enthusiast of the technology area, currently migrating to development focused on Java.
 
 * 🌍  I'm based in Londrina/PR Brazil
-* 🖥️  See my portfolio at [My linktree](http://linktr.ee/abdulkls)
+* 🧠  I'm learning Kotlin
 * ✉️  You can contact me at [abdulsarabia@gmail.com](mailto:abdulsarabia@gmail.com)
-* 🧠  I'm learning Java and K6 testing of load
-
 ### Skills
 
 
